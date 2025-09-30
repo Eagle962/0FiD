@@ -1,4 +1,4 @@
-## Adapter 核心方法
+## Adapter 
 
 | 函數名稱 | 返回類型 | 用途 |
 |---------|---------|------|
@@ -12,7 +12,7 @@
 | `adapter.get_model_info()` | `dict` | 獲取完整模型信息 |
 | `adapter.get_complexity_metrics()` | `dict` | 獲取複雜度指標（max_depth, n_estimators 等） |
 
-## 數據工具方法
+## 數據工具
 
 | 函數名稱 | 返回類型 | 用途 |
 |---------|---------|------|
